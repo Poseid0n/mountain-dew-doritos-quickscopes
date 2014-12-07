@@ -12,11 +12,8 @@ package sampletext;
  */
 public class SAMPLETEXT {
     public static void printDoritos() {
-        try { 
+       
         System.out.println("Sample text v420 : Sponsored by Doritos, Machinima, Mountain Dew and the Holocaust (trademark)");
-           //get fuken owned nub
-        }catch(Exception e ) {
-            System.err.println("get feken owneed screb");
-        }
+        
         }
 }
